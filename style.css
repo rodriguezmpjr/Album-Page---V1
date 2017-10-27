@@ -1,3 +1,16 @@
 .image {
+    background-image: url('Metallica-MOP-cover.jpg');
+    height:300px;
+    width:300px;
+    margin: 0 auto;
+}
+
+.title {
     text-align: center;
+}
+h1, ul {
+    font-family:  Verdana, Arial, Helvetica, sans-serif;
+}
+li {
+    font-style: italic;
 }
