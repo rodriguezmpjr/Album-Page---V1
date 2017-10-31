@@ -1,5 +1,5 @@
 .image {
-    background-image: url('Metallica-MOP-cover.jpg');
+    /*background-image: url('Metallica-MOP-cover.jpg');*/
     height:300px;
     width:300px;
     margin: 0 auto;
@@ -23,5 +23,5 @@ a:hover {
 }
 td {
     font-style: italic;
-    background-color: #fffec7;
+    /*background-color: #fffec7;*/
 }
